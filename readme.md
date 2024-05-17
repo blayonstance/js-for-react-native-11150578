@@ -13,7 +13,7 @@ The `arrayManipulation.js` file contains a function named `processArray` that ta
 
 The function returns the new array containing the modified values.
 
-**Task 2: arrayManipulation.js (continued)**
+**Task 2: arrayManipulation.js **
 
 The `arrayManipulation.js` file also includes a function named `formatArrayStrings`. This function takes two arguments:
 
@@ -41,7 +41,3 @@ It iterates through both arrays and creates user profiles as objects. Each objec
 - `id`: An auto-incremented ID starting from 1.
 
 The function returns an array containing the user profile objects.
-
-**Note:**
-
-This explanation provides a high-level overview of the implemented functionalities. You can further expand on the details of the code logic if desired.
